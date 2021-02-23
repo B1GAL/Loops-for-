@@ -4,7 +4,7 @@ namespace Loops__for_
 {
     class Program
     {
-        static void Main(string[] args) // alex upton
+        static void Main(string[] args) // alex_upton
         {
             for (int i = 1; i < 101; i++)
             {
